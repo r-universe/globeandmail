@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tgamtheme"]
-	path = tgamtheme
-	url = https://github.com/globeandmail/tgamtheme
-	shallow = true
-	registered = true
 [submodule "upstartr"]
 	path = upstartr
 	url = https://github.com/globeandmail/upstartr
+	shallow = true
+	registered = true
+[submodule "tgamtheme"]
+	path = tgamtheme
+	url = https://github.com/globeandmail/tgamtheme
 	shallow = true
 	registered = true

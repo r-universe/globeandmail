@@ -1,10 +1,10 @@
 [
   {
-    "package": "upstartr",
+    "package": "tgamtheme",
     "oncran": true
   },
   {
-    "package": "tgamtheme",
+    "package": "upstartr",
     "oncran": true
   }
 ]
